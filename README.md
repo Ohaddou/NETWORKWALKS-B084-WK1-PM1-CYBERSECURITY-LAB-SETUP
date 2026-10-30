@@ -163,6 +163,6 @@ This lab environment is strictly for educational purposes and authorized securit
 
 ## 👨‍💻 Author
 
-**[Ohaddou]**  
+**Ohaddou**  
 _Cybersecurity Professional - Cohort B084_  
 [LinkedIn Profile](https://www.linkedin.com/in/ayoub-haddaoui/) | [GitHub Profile](https://github.com/Ohaddou)
