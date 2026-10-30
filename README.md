@@ -76,7 +76,6 @@ The lab is built on a **Type 2 Hypervisor** (VirtualBox) running on a Windows Ho
 - Allocated **2048 MB RAM** and **2 CPU cores**.
 - Set **Adapter 1** to `NAT Network` and selected `NatNetwork`.
 - Enabled **Bidirectional Clipboard** and **Drag-and-Drop**.
-- Added a Shared Folder mapping to the host's `/downloads` directory.
 
 ### 3. Static IP Configuration (via Terminal)
 
