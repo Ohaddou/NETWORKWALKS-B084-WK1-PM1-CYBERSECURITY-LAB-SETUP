@@ -22,7 +22,13 @@ The goal is to create a safe, reproducible baseline environment where network sc
 
 ---
 
-## 🏗️ Lab Architecture & Specifications
+## 🏗️ Lab Architecture
+
+The lab is built on a **Type 2 Hypervisor** (VirtualBox) running on a Windows Host. All VMs communicate over an isolated virtual switch (`NatNetwork`).
+
+![Lab Architecture Diagram](screenshots/Lab_Architecture.png)
+
+### Network Specifications
 
 | Component             | Configuration                               |
 | :-------------------- | :------------------------------------------ |
@@ -110,13 +116,17 @@ After configuration, the following tests were performed successfully to ensure t
 
 ![Kali VM Network Settings](screenshots/NatNetwork_Kali.png)
 
-### 3. Successful IP & Ping Verification
+### 3. Static IP & Ping Verification
 
-![Kali Terminal Ping Success](screenshots/Static_IP.png)
+![Static IP and Ping Success](screenshots/Static_IP.png)
 
-### 4. Clean Baseline Snapshot
+### 4. Kali Linux Desktop UI
 
-![Kali Snapshot](screenshots/kali-snapshot.png)
+![Kali Linux Desktop](screenshots/Kali_UI.png)
+
+### 5. Clean Baseline Snapshot
+
+![Kali Snapshot](screenshots/Kali_Snapshot.png)
 
 ---
 
@@ -136,6 +146,6 @@ This lab environment is strictly for educational purposes and authorized securit
 
 ## 👨‍💻 Author
 
-**[Ohaddou]**  
+**[Your Name Here]**  
 _Cybersecurity Professional - Cohort B084_  
-[LinkedIn Profile](https://www.linkedin.com/in/ayoub-haddaoui/) | [GitHub Profile](https://github.com/Ohaddou)
+[LinkedIn Profile](https://linkedin.com/in/your-profile) | [GitHub Profile](https://github.com/your-username)
