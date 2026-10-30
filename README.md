@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🔐 Cybersecurity Lab Environment Setup</h1>
+  <h1>🔐 Cybersecurity & Penstesting Lab Setup</h1>
   <p><b>Building an isolated virtual lab for penetration testing and ethical hacking practice</b></p>
 
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-0052cc" alt="Cybersecurity">
