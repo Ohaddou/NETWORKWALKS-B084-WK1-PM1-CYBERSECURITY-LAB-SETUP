@@ -2,19 +2,19 @@
   <h1>🔐 Cybersecurity Lab Environment Setup</h1>
   <p><b>Building an isolated virtual lab for penetration testing and ethical hacking practice</b></p>
 
-  <img src="https://img.shields.io/badge/Skill-Cybersecurity-red" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2-blue" alt="Virtualbox">
-  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-black" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Skill-Linux-orange" alt="Linux">
-  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-teal" alt="Network">
-  <img src="https://img.shields.io/badge/Penetration%20Testing-red" alt="Penetration Testing"><br>
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-0052cc" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/Ver-VirtualBox%20v7.2-183A61" alt="VirtualBox">
+  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.3-557C94" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Skill-Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-008080" alt="Network">
+  <img src="https://img.shields.io/badge/Penetration%20Testing-d73a49" alt="Penetration Testing"><br>
   
-  <img src="https://img.shields.io/badge/Skill-Virtualization-red" alt="Virtualization">
-  <img src="https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Kali%20Linux-red" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/NetworkWalks-black" alt="NetworkWalks">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-orange" alt="Ethical Hacking">
-  <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-red" alt="Author">
+  <img src="https://img.shields.io/badge/Skill-Virtualization-6f42c1" alt="Virtualization">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/NetworkWalks-24292e" alt="NetworkWalks">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-f39c12" alt="Ethical Hacking">
+  <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-e74c3c" alt="Author">
 </div>
 
 ---
