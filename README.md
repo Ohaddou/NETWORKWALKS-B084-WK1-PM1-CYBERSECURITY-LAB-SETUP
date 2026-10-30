@@ -1,6 +1,23 @@
-# 🛡️ NetworkWalks B084 - Week 1 Project Module 1
+<div align="center">
+  <h1>🔐 Cybersecurity Lab Environment Setup</h1>
+  <p><b>Building an isolated virtual lab for penetration testing and ethical hacking practice</b></p>
 
-**Cybersecurity Lab Environment Setup: VirtualBox & Kali Linux**
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-red" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2-blue" alt="Virtualbox">
+  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-black" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Skill-Linux-orange" alt="Linux">
+  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-teal" alt="Network">
+  <img src="https://img.shields.io/badge/Penetration%20Testing-red" alt="Penetration Testing"><br>
+  
+  <img src="https://img.shields.io/badge/Skill-Virtualization-red" alt="Virtualization">
+  <img src="https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Kali%20Linux-red" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/NetworkWalks-black" alt="NetworkWalks">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-orange" alt="Ethical Hacking">
+  <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-red" alt="Author">
+</div>
+
+---
 
 ## 📌 Project Overview
 
@@ -116,13 +133,13 @@ After configuration, the following tests were performed successfully to ensure t
 
 ![Kali VM Network Settings](screenshots/NatNetwork_Kali.png)
 
-### 3. Static IP & Ping Verification
-
-![Static IP and Ping Success](screenshots/Static_IP.png)
-
-### 4. Kali Linux Desktop UI
+### 3. Kali Linux Desktop UI
 
 ![Kali Linux Desktop](screenshots/Kali_UI.png)
+
+### 4. Static IP & Ping Verification
+
+![Static IP and Ping Success](screenshots/Static_IP.png)
 
 ### 5. Clean Baseline Snapshot
 
@@ -146,6 +163,6 @@ This lab environment is strictly for educational purposes and authorized securit
 
 ## 👨‍💻 Author
 
-**[Your Name Here]**  
+**[Ohaddou]**  
 _Cybersecurity Professional - Cohort B084_  
-[LinkedIn Profile](https://linkedin.com/in/your-profile) | [GitHub Profile](https://github.com/your-username)
+[LinkedIn Profile](https://www.linkedin.com/in/ayoub-haddaoui/) | [GitHub Profile](https://github.com/Ohaddou)
