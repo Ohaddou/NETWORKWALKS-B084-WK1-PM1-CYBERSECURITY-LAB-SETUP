@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94" alt="Kali Linux">
   <img src="https://img.shields.io/badge/NetworkWalks-24292e" alt="NetworkWalks">
   <img src="https://img.shields.io/badge/Ethical%20Hacking-f39c12" alt="Ethical Hacking">
-  <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-e74c3c" alt="Author">
+  <img src="https://img.shields.io/badge/Ohaddou-e74c3c" alt="Author">
 </div>
 
 ---
