@@ -33,7 +33,7 @@ The goal is to create a safe, reproducible baseline environment where network sc
 - Create an isolated `NatNetwork` (`10.0.0.0/24`) for lab communications.
 - Deploy Kali Linux as the primary attacker/security machine.
 - Configure a static IP (`10.0.0.2/24`) with full internet access.
-- Enable clipboard sharing and shared folders (`/downloads`) between Host and VM.
+- Enable clipboard sharing and shared folders between Host and VM.
 - Take a clean baseline snapshot for future rollbacks.
 - Document the troubleshooting process for real-world issues encountered.
 
